@@ -29,7 +29,7 @@
 
 ```  
 ├── Bibliografia
-│   └── *Documentación hacerca de los patrones de suño* 
+│   └── Documentación hacerca de los patrones de suño
 ├── main.py ( Archivo que lee los archivos de caracteristicas y ejecuta el clasificador )
 ├── python_files
 │   ├── Clasificador.py         
