@@ -27,6 +27,7 @@
 
 ## Estructura del proyecto
 
+`
 ├── Bibliografia
 │   └── *Documentación hacerca de los patrones de suño* 
 ├── main.py ( Archivo que lee los archivos de caracteristicas y ejecuta el clasificador )
@@ -41,5 +42,5 @@
 │   └── ventaneo_de_db.py
 ├── Reporte_de_proyecto.pdf
 └── requeriments.txt
+`
 
-7 directories, 34 files
